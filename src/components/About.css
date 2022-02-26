@@ -1,0 +1,15 @@
+.about {
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    padding: 100px;
+    margin: auto;
+}
+
+.about h1 {
+    font-size:70px;
+    padding: 30px;
+}
+
+.about p {
+    font-size: 30px;
+}

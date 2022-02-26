@@ -1,0 +1,83 @@
+.home {
+    width: 100%;
+    height: auto;
+}
+
+.home-mainn {
+    display: flex;
+    width: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.img1 {
+    max-width: 100%;
+    padding: 3.5em;
+    float: left;
+}
+
+.main-content {
+    height: 25vw;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    padding: 40px;
+}
+
+.main-content p {
+    font-size: 55px;
+}
+
+.about-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.about-section .img2 {
+    padding: 2em;
+}
+
+.about-content p {
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    margin: 0px 70px 0px 70px;
+}
+.section-content {
+    align-items: center;
+    width: 100%;
+}
+.section-content h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 30px 250px 50px 250px;
+    background-color: rgb(230, 230, 230);
+}
+
+.section-content .section-button {
+    display: flex;
+    margin: auto;
+    text-align: center;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.section-content .section-button:hover {
+    border-radius: 25px;
+    transition: .5s;
+}
+
+.follow-link {
+    text-align: center;
+    padding: 50px;
+}
+
+.follow-link h1 {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
